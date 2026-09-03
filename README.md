@@ -1,5 +1,4 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:1e1a2e&height=180&section=header&text=HappyDuckCoder&fontSize=48&fontColor=a78bfa&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Tech%20Lead&descAlignY=58&descSize=18&descColor=9d8cb0"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=1200&color=A78BFA&center=true&vCenter=true&width=480&lines=Computer+Vision+%26+Deep+Learning+%F0%9F%A7%A0;Full-Stack+AI+Applications+%F0%9F%9A%80;Tech+Lead+%26+Problem+Solver+%F0%9F%94%A7;Always+coding+with+a+smile+%F0%9F%A6%86)](https://git.io/typing-svg)
@@ -11,7 +10,6 @@
 <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=4ade80" /></a>
 
 </div>
-
 <br/>
 
 ## 👋 About Me
@@ -37,25 +35,21 @@ class HappyDuckCoder:
 **AI / ML**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
-
 <br/><br/>
 
 **Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
-
 <br/><br/>
 
 **Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,fastify,dotnet,cs,cpp&theme=dark" />
-
 <br/><br/>
 
 **Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" />
-
 <br/><br/>
 
 **DevOps**
@@ -63,15 +57,14 @@ class HappyDuckCoder:
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark" />
 
 </div>
-
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HappyDuckCoder&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&icon_color=38bdf8&text_color=9d8cb0&ring_color=a78bfa" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyDuckCoder&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&bg_color=0a0a0f&title_color=a78bfa&text_color=9d8cb0" height="165"/>
+<img src="https://raw.githubusercontent.com/HappyDuckCoder/HappyDuckCoder/output/stats.svg" height="165"/>
+<img src="https://raw.githubusercontent.com/HappyDuckCoder/HappyDuckCoder/output/top-langs.svg" height="165"/>
 
 <br/>
 
@@ -79,10 +72,9 @@ class HappyDuckCoder:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HappyDuckCoder&bg_color=0a0a0f&color=a78bfa&line=7c3aed&point=38bdf8&area_color=1e1a2e&hide_border=true&area=true" width="94%"/>
+<img src="https://raw.githubusercontent.com/HappyDuckCoder/HappyDuckCoder/output/activity-graph.svg" width="94%"/>
 
 </div>
-
 <br/>
 
 ## 🌱 Currently Learning
