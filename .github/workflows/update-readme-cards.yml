@@ -2,8 +2,8 @@ name: Update README Cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # chạy mỗi ngày lúc 03:00 UTC (~10:00 sáng giờ VN)
-  workflow_dispatch:        # cho phép bấm chạy tay trong tab Actions
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -38,6 +38,12 @@ jobs:
           options: bg_color=0a0a0f&color=a78bfa&line=7c3aed&point=38bdf8&area_color=1e1a2e&hide_border=true&area=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update readme cards [skip ci]"
+          file_pattern: "dist/*.svg"
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
