@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Duckilot's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 3248, Total PRs: 373, Total Issues: 126, Contributed to (last year): 46</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 3249, Total PRs: 373, Total Issues: 126, Contributed to (last year): 46</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 91.38276022310579;
+        stroke-dashoffset: 91.38274598702526;
       }
     }
   
