@@ -39,16 +39,14 @@ jobs:
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update readme cards [skip ci]"
-          file_pattern: "dist/*.svg"
-
+      # Publish SVGs only to the `output` branch. keep_history: false force-pushes
+      # a single fresh commit each run, so neither main nor output accumulates history.
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
